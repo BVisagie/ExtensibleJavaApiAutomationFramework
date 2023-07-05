@@ -1,7 +1,7 @@
 # TA Playground - API Automation for Java
 
-The purpose of this Framework is to serve as a functional demo and / or template to be used on other projects KZA might
-undertake and assist with training.
+The purpose of this Framework is to serve as a functional demo and / or template to be used on projects and / or assist
+with training.
 
 This framework showcases two API integrations for testing:
 
@@ -37,7 +37,7 @@ The API automation framework for Java project consists of the following primary 
 
 ### Executing tests
 
-* Right-click a test class file (example:`nl/kza/restful_booker/tests/AuthenticationTests.java`) and select `Run`
+* Right-click a test class file (example:`com/example/restful_booker/tests/AuthenticationTests.java`) and select `Run`
   or `Debug`
 * Or Run `mvn clean test`
 
