@@ -1,4 +1,4 @@
-# TA Playground - API Automation for Java
+# API Automation for Java
 
 The purpose of this Framework is to serve as a functional demo and / or template to be used on projects and / or assist
 with training.
