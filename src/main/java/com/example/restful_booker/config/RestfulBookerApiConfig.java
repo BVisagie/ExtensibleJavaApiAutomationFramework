@@ -8,7 +8,7 @@ import org.aeonbits.owner.Config;
  * The `@Config.Sources` load the properties file and match the attributes with the `@Key`, so you automatically have the value.
  * You can see two sources.
  * The first one will get the property values from the system (as environment variables or from the command line) in the case you want to change it, for example, in a pipeline.
- * The second will load the `random_user.api.properties` file from the classpath.
+ * The second will load the `restful_booker_api.properties` file from the classpath.
  */
 @Config.LoadPolicy(Config.LoadType.MERGE)
 @Config.Sources({
